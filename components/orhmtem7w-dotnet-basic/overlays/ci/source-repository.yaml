@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: orhmtem7w-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/orhmtem7w-dotnet-basic
